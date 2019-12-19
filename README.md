@@ -16,6 +16,6 @@
 
 
 ### Project 3 - Image segmentation using clustering and Image Denoisiong
-**Task 1 :** **_Image_** segmentation using K-means clustering
+**Task 1 :** **_Image segmentation_** using K-means clustering
 
 **Task 2 :** Image **_denoising_** using **_Median Filtering_**
