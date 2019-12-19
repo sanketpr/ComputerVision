@@ -1,4 +1,4 @@
-#### Computer Vision and Image Processing
+# Computer Vision and Image Processing
 
 
 ### Project 1 - Image Filtering and Template Matching
